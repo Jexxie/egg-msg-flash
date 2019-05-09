@@ -9,12 +9,12 @@
 
 [npm-image]: https://img.shields.io/npm/v/eggjs-msg-flash.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/eggjs-msg-flash
-[travis-image]: https://img.shields.io/travis/eggjs/eggjs-msg-flash.svg?style=flat-square
-[travis-url]: https://travis-ci.org/eggjs/eggjs-msg-flash
-[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/eggjs-msg-flash.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/eggjs-msg-flash?branch=master
-[david-image]: https://img.shields.io/david/eggjs/eggjs-msg-flash.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/eggjs-msg-flash
+[travis-image]: https://img.shields.io/travis/Jexxie/eggjs-msg-flash.svg?style=flat-square
+[travis-url]: https://travis-ci.org/Jexxie/eggjs-msg-flash
+[codecov-image]: https://img.shields.io/codecov/c/github/Jexxie/eggjs-msg-flash.svg?style=flat-square
+[codecov-url]: https://codecov.io/github/Jexxie/eggjs-msg-flash?branch=master
+[david-image]: https://img.shields.io/david/Jexxie/eggjs-msg-flash.svg?style=flat-square
+[david-url]: https://david-dm.org/Jexxie/eggjs-msg-flash
 [snyk-image]: https://snyk.io/test/npm/eggjs-msg-flash/badge.svg?style=flat-square
 [snyk-url]: https://snyk.io/test/npm/eggjs-msg-flash
 [download-image]: https://img.shields.io/npm/dm/eggjs-msg-flash.svg?style=flat-square
