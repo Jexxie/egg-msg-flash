@@ -1,5 +1,5 @@
 {
-  "name": "egg-msg-flash",
+  "name": "eggjs-msg-flash",
   "version": "1.0.0",
   "description": "",
   "eggPlugin": {
@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-msg-flash.git"
+    "url": "git+https://github.com/eggjs/eggjs-msg-flash.git"
   },
   "bugs": {
     "url": "https://github.com/eggjs/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-msg-flash#readme",
+  "homepage": "https://github.com/eggjs/eggjs-msg-flash#readme",
   "author": "jexxie",
   "license": "MIT"
 }
